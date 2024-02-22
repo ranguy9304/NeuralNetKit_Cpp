@@ -1,0 +1,5 @@
+/home/ranguy/main/projects/NNfs/CMakeFiles/rebuild_cache.dir
+/home/ranguy/main/projects/NNfs/CMakeFiles/edit_cache.dir
+/home/ranguy/main/projects/NNfs/src/CMakeFiles/rebuild_cache.dir
+/home/ranguy/main/projects/NNfs/src/CMakeFiles/edit_cache.dir
+/home/ranguy/main/projects/NNfs/src/CMakeFiles/NNfs.dir

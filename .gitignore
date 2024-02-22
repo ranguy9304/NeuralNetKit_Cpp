@@ -1,0 +1,6 @@
+.vscode/
+build/
+cmakefiles/
+dataset/
+opencv.zip
+tedst.py
